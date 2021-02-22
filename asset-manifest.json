@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/randoleh/monstrers-rolodex.git/static/css/main.ba4534b7.chunk.css",
+    "main.js": "/randoleh/monstrers-rolodex.git/static/js/main.c7072280.chunk.js",
+    "main.js.map": "/randoleh/monstrers-rolodex.git/static/js/main.c7072280.chunk.js.map",
+    "runtime-main.js": "/randoleh/monstrers-rolodex.git/static/js/runtime-main.78934159.js",
+    "runtime-main.js.map": "/randoleh/monstrers-rolodex.git/static/js/runtime-main.78934159.js.map",
+    "static/js/2.80a3d519.chunk.js": "/randoleh/monstrers-rolodex.git/static/js/2.80a3d519.chunk.js",
+    "static/js/2.80a3d519.chunk.js.map": "/randoleh/monstrers-rolodex.git/static/js/2.80a3d519.chunk.js.map",
+    "static/js/3.8a5726d2.chunk.js": "/randoleh/monstrers-rolodex.git/static/js/3.8a5726d2.chunk.js",
+    "static/js/3.8a5726d2.chunk.js.map": "/randoleh/monstrers-rolodex.git/static/js/3.8a5726d2.chunk.js.map",
+    "index.html": "/randoleh/monstrers-rolodex.git/index.html",
+    "static/css/main.ba4534b7.chunk.css.map": "/randoleh/monstrers-rolodex.git/static/css/main.ba4534b7.chunk.css.map",
+    "static/js/2.80a3d519.chunk.js.LICENSE.txt": "/randoleh/monstrers-rolodex.git/static/js/2.80a3d519.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78934159.js",
+    "static/js/2.80a3d519.chunk.js",
+    "static/css/main.ba4534b7.chunk.css",
+    "static/js/main.c7072280.chunk.js"
+  ]
+}
