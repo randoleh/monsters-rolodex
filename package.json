@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/randoleh/monstrers-rolodex.git",
-  "name": "monsters-rolodex",
+  "name": "monstrers-rolodex",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
